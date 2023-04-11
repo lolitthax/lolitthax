@@ -1,4 +1,4 @@
-### Olá, Eu sou a Aline! (lolithax) 👋
+### Olá, Eu sou a Aline! (lolitthax) 👋
 
 - 🔭 Atualmente me dedico ao front-end
 - 🌱 Estudando JavaScript e ReactJs
