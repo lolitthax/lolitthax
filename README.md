@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Aline! (lolitthax) 👋
 
 - 🔭 Atualmente me dedico ao front-end
-- 🌱 Estudando JavaScript e ReactJs
+- 🌱 Estudando JavaScript, ReactJs e Angular
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
